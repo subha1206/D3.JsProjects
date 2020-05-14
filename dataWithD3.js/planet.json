@@ -1,0 +1,32 @@
+[
+  {
+    "rad": 50,
+    "dis": 110,
+    "fill": "yellow"
+  },
+  {
+    "rad": 180,
+    "dis": 210,
+    "fill": "red"
+  },
+  {
+    "rad": 220,
+    "dis": 150,
+    "fill": "blue"
+  },
+  {
+    "rad": 65,
+    "dis": 271,
+    "fill": "pink"
+  },
+  {
+    "rad": 150,
+    "dis": 254,
+    "fill": "green"
+  },
+  {
+    "rad": 98,
+    "dis": 185,
+    "fill": "orange"
+  }
+]
