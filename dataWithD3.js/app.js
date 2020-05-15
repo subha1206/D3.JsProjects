@@ -24,7 +24,8 @@
 //   .attr("x", (d, i) => i * 100)
 //   .attr("y", 20);
 
-const svg = d3.select("svg");
+const canvas = d3.select(".container");
+const svg = canvas.append("svg").attr("width", 800).attr("height", 600);
 
 d3.json("./planet.json").then((data) => {
   const circles = svg.selectAll("circle").data(data);
@@ -43,7 +44,7 @@ d3.json("./planet.json").then((data) => {
     .enter()
     .append("circle")
     .attr("cy", 200)
-    .attr("cx", (d) => d.dis)
+    .attr("cx", (d) => d.dis )
     .attr("r", (d) => d.rad)
     .attr("fill", (d) => d.fill);
 });

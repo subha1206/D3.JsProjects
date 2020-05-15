@@ -1,31 +1,31 @@
 [
   {
-    "rad": 50,
-    "dis": 110,
+    "rad": 20,
+    "dis": 20,
     "fill": "yellow"
   },
   {
-    "rad": 180,
-    "dis": 210,
+    "rad": 80,
+    "dis": 90,
     "fill": "red"
   },
   {
-    "rad": 220,
-    "dis": 150,
+    "rad": 50,
+    "dis": 100,
     "fill": "blue"
   },
   {
-    "rad": 65,
+    "rad": 100,
     "dis": 271,
     "fill": "pink"
   },
   {
-    "rad": 150,
+    "rad": 30,
     "dis": 254,
     "fill": "green"
   },
   {
-    "rad": 98,
+    "rad":68,
     "dis": 185,
     "fill": "orange"
   }
