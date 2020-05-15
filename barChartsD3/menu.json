@@ -1,0 +1,13 @@
+[
+  { "name": "abc", "orders": 700 },
+  { "name": "rice", "orders": 5200 },
+  { "name": "curry", "orders": 4505 },
+  { "name": "soup", "orders": 1900 },
+  { "name": "chicken", "orders": 3004 },
+  { "name": "mutton", "orders": 2800 },
+  { "name": "dessert", "orders": 7500 },
+  { "name": "sup", "orders": 8200 },
+  { "name": "bhelpuri", "orders": 1500 },
+  { "name": "biryani", "orders": 600 },
+  { "name": "fish", "orders": 890 }
+]
